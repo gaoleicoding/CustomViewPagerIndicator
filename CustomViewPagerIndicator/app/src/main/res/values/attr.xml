@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="message">
+        <item>故障通知</item>
+        <item>其它消息</item>
+    </string-array>
+    <string-array name="feedback">
+        <item>商务</item>
+        <item>技术</item>
+        <item>备案</item>
+        <item>其它</item>
+    </string-array>
+
+    <string-array name="commerce">
+        <item>VIP服务申请</item>
+        <item>实名认证</item>
+        <item>合同咨询</item>
+        <item>发票咨询</item>
+        <item>赔偿申请</item>
+        <item>退款申请</item>
+        <item>其它</item>
+    </string-array>
+    <string-array name="techology">
+        <item>云服务器</item>
+        <item>云物理主机</item>
+        <item>标准存储服务</item>
+        <item>关系型数据库</item>
+        <item>弹性IP</item>
+        <item>视频云</item>
+        <item>负载均衡</item>
+        <item>内容分发网络</item>
+        <item>弹性块服务</item>
+        <item>缓存服务</item>
+        <item>其它</item>
+    </string-array>
+    <string-array name="record">
+        <item>ICP备案咨询</item>
+        <item>公安备案咨询</item>
+        <item>ICP证办理咨询</item>
+        <item>其它</item>
+    </string-array>
+    <string-array name="other">
+        <item>其它</item>
+    </string-array>
+
+    <string-array name="message_content">
+        <item>message1</item>
+        <item>message2</item>
+        <item>message3</item>
+        <item>message4</item>
+        <item>message5</item>
+        <item>message6</item>
+        <item>message7</item>
+    </string-array>
+
+
+    <attr name="rightPadding" format="dimension" />
+
+    <declare-styleable name="SlidingMenu">
+        <attr name="rightPadding" />
+    </declare-styleable>
+
+</resources>

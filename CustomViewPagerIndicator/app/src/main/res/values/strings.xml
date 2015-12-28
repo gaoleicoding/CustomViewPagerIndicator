@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomViewPagerIndicator</string>
+    <string name="problem_kind">类型</string>
+</resources>
